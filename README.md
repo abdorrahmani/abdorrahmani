@@ -62,10 +62,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/abdorrahmani/abdorrahmani/output/snake.svg" alt="Snake animation" />
-
-###
