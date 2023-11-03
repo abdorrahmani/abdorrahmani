@@ -1,4 +1,4 @@
-<h2 align="center">I'm Mohammad Abdorrahmani<br>CEO / CO-FOUNDER of Anophel</h2>
+<h2 align="center">I'm Mohammad Abdorrahmani<br>CEO / CO-FOUNDER of Anophel <br>& Full-Stack Developer</h2>
 
 ###
 
