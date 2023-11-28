@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abdorrahmani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdorrahmani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=abdorrahmani&locale=en&mode=weekly&theme=ocean_dark&hide_border=true&border_radius=5" height="134" alt="streak graph"  />
-   <img height="152" width="200" src="https://anophel.com/build/assets/anophel.com-31a2ac80.png"  />
+   <img height="152" width="320" src="https://anophel.com/build/assets/Anophel-%20full%20name%20svg-3f84acf4.svg"  />
 </div>
 
 ###
