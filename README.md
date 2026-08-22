@@ -123,8 +123,8 @@ I enjoy building things from scratch, solving complex engineering problems, and 
 
 I'm currently open to **remote and contract opportunities**, mainly around **Go backend engineering**, distributed systems, infrastructure, and Rust.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-abdorrahmani-051914198)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/localhostam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-abdorrahmani-051914198)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mabdorrahmani)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://anophel.com)
 
 ---
